@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanner-c&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on planning my next project!
+- 🔭 I’m currently working on a [web game implementing AI features](https://github.com/tanner-c/web-game)!
 - 🌱 I’m currently learning **Software Engineering at Western Governor's University**
 - 👨‍💻 All of my projects are available at [github.com/tanner-c](https://github.com/tanner-c)
 - ⚡ Fun fact: **I'm a singer!**
