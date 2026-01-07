@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanner!</h1>
 
-### An aspiring developer from West Virginia!
+### Software Developer from West Virginia!
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanner-c&label=Profile%20views&color=0e75b6&style=flat)
 
